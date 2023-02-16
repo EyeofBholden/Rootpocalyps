@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: dfa367fc21da9b446a97e2569db664cb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Bullet1: {instanceID: 0}
+  - Bullet2: {instanceID: 0}
+  - Bullet3: {instanceID: 0}
+  - bulletTransform: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - pew: {fileID: 8300000, guid: 47382c78fdcbb7c4fbda6f96bd3c9399, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
