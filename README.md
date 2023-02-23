@@ -1,5 +1,5 @@
 # Rootpocalyps
-UVIC Global Game Jam 2023 - 48 hour
+UVIC Global Game Jam 2023 - 48 hour time limit
 
 This is the finished Project our group created during the global game jam.
 link to offical site: https://globalgamejam.org/2023/games/rootpocalypse-2
